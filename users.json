@@ -1,7 +1,7 @@
 {
 	"version": "1.0.0",
 	"description": "上传者列表",
-	"users": [
+	"data": [
 		{
 			"name": "刘栋梁",
 			"icon": "https://github.com/identicons/GreenHatUniversity.png",

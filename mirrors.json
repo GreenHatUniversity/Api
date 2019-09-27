@@ -1,13 +1,13 @@
 {
 	"version": "1.0.0",
 	"description": "镜像地址, CDN, 分流",
-	"points": [
+	"data": [
 		{
 			"owner": "Make",
 			"name": "码云",
 			"description": "码云 Gitee - 云端软件开发协作平台",
-			"apiRepo": "https://gitee.com/make/Database/raw/master/",
-			"audioRepo": {
+			"apiRepo": "https://gitee.com/make/Api/raw/master/",
+			"postsRepo": {
 				"Posts01": "https://raw.githubusercontent.com/GreenHatUniversity/Posts01/master/",
 				"Posts02": "https://raw.githubusercontent.com/GreenHatUniversity/Posts02/master/",
 				"Posts03": "https://raw.githubusercontent.com/GreenHatUniversity/Posts03/master/"

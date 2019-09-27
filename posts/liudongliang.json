@@ -3,7 +3,7 @@
 	"description": "刘延栋的分享列表",
 	"data": [
 		{
-			"audioRepo": "Posts03",
+			"postsRepo": "Posts03",
 			"title": "202.世界上第一台量产的计算机：UNIVAC",
 			"description": "RT",
 			"icon": "wKgKjFsqBdXTDdNvAABO2sCYFqc203.png",
