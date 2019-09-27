@@ -6,28 +6,8 @@
 			"name": "刘栋梁",
 			"icon": "https://github.com/identicons/GreenHatUniversity.png",
 			"description": "绿帽子大学校长",
-			"path": "liudongliang",
-			"order": 0,
-			"albums": [
-				{
-					"name": "软件那些事儿",
-					"icon": "wKgKjFsqBdXTDdNvAABO2sCYFqc203.png",
-					"description": "内容简介",
-					"order": 1
-				},
-				{
-					"name": "刘栋梁的故事",
-					"icon": "wKgLfFweRBCxwiorAAF-AAh3LuI347.png",
-					"description": "内容简介",
-					"order": 2
-				},
-				{
-					"name": "老爸的答案",
-					"icon": "wKgJo1p-6_-yMyjuAAj66HVMFrY586.png",
-					"description": "内容简介",
-					"order": 3
-				}
-			]
+			"userId": "liudongliang",
+			"order": 0
 		}
 	]
 }
