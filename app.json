@@ -1,0 +1,11 @@
+{
+	"version": "1.0.0",
+	"description": "",
+	"notice": "No more~",
+	"apiRepo": "https://raw.githubusercontent.com/GreenHatUniversity/Api/master/",
+	"audioRepo": {
+		"Posts01": "https://raw.githubusercontent.com/GreenHatUniversity/Posts01/master/",
+		"Posts02": "https://raw.githubusercontent.com/GreenHatUniversity/Posts02/master/",
+		"Posts03": "https://raw.githubusercontent.com/GreenHatUniversity/Posts03/master/"
+	}
+}
