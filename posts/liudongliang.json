@@ -4,6 +4,18 @@
 	"data": [
 		{
 			"postsRepo": "Posts03",
+			"title": "214. 德州仪器的蓬勃发展以及肖克利的迅速衰落",
+			"description": "RT",
+			"icon": "wKgKjFsqBdXTDdNvAABO2sCYFqc203.png",
+			"addTime": "2019-09-28 11:56:06",
+			"type": "audio",
+			"album": "软件那些事儿",
+			"timeLength": 2016,
+			"url": "wKgMdV2JRvmivp3PAPkf0jpK2Wc035.m4a",
+			"order": 214
+		},
+		{
+			"postsRepo": "Posts03",
 			"title": "202.世界上第一台量产的计算机：UNIVAC",
 			"description": "RT",
 			"icon": "wKgKjFsqBdXTDdNvAABO2sCYFqc203.png",
