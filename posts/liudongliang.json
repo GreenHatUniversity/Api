@@ -10,7 +10,7 @@
 			"addTime": "2019-09-28 11:56:06",
 			"type": "audio",
 			"album": "软件那些事儿",
-			"timeLength": 2016,
+			"duration": 2016,
 			"url": "wKgMdV2JRvmivp3PAPkf0jpK2Wc035.m4a",
 			"order": 214
 		},
@@ -22,7 +22,7 @@
 			"addTime": "2019-09-23 14:41:54",
 			"type": "audio",
 			"album": "软件那些事儿",
-			"timeLength": 1872,
+			"duration": 1872,
 			"url": "202.世界上第一台量产的计算机：UNIVAC.m4a",
 			"order": 202
 		}
