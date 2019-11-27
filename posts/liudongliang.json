@@ -1,7 +1,79 @@
 {
 	"version": "1.0.0",
-	"description": "刘延栋的分享列表",
+	"description": "刘延栋的分享列表 https://www.ximalaya.com/zhubo/46905980/sound/",
 	"data": [
+		{
+			"postsRepo": "Posts03",
+			"title": "220. 波澜壮阔的集成电路与芯片的故事(1)： 仙童公司",
+			"description": "RT",
+			"icon": "wKgKjFsqBdXTDdNvAABO2sCYFqc203.png",
+			"addTime": "2019-09-28 11:56:06",
+			"type": "audio",
+			"album": "软件那些事儿",
+			"duration": 2016,
+			"url": "https://fdfs.xmcdn.com/group67/M03/5B/9B/wKgMbV3bv4KArEc5ALZ9B38nVG0767.m4a",
+			"order": 214
+		},
+		{
+			"postsRepo": "Posts03",
+			"title": "219. 鼠标的发明者——恩格尔巴特(2)",
+			"description": "RT",
+			"icon": "wKgKjFsqBdXTDdNvAABO2sCYFqc203.png",
+			"addTime": "2019-09-28 11:56:06",
+			"type": "audio",
+			"album": "软件那些事儿",
+			"duration": 2016,
+			"url": "https://fdfs.xmcdn.com/group68/M03/0A/09/wKgMeF3Hn9fA0SjRAQSwMYZhL9o250.m4a",
+			"order": 214
+		},
+		{
+			"postsRepo": "Posts03",
+			"title": "218. 鼠标的发明者：恩格尔巴特",
+			"description": "RT",
+			"icon": "wKgKjFsqBdXTDdNvAABO2sCYFqc203.png",
+			"addTime": "2019-09-28 11:56:06",
+			"type": "audio",
+			"album": "软件那些事儿",
+			"duration": 2016,
+			"url": "https://fdfs.xmcdn.com/group67/M01/31/06/wKgMbV26Tc_hNSFjAP3kF9YbF00354.m4a",
+			"order": 214
+		},
+		{
+			"postsRepo": "Posts03",
+			"title": "217. DEC的PDP-7电脑，UNIX产生在这个设备上",
+			"description": "RT",
+			"icon": "wKgKjFsqBdXTDdNvAABO2sCYFqc203.png",
+			"addTime": "2019-09-28 11:56:06",
+			"type": "audio",
+			"album": "软件那些事儿",
+			"duration": 2016,
+			"url": "https://fdfs.xmcdn.com/group69/M02/74/00/wKgMb12uv8PQW13-ANY-RdiCGpA651.m4a",
+			"order": 214
+		},
+		{
+			"postsRepo": "Posts03",
+			"title": "216. DEC创始人在美国军方十年磨一剑",
+			"description": "RT",
+			"icon": "wKgKjFsqBdXTDdNvAABO2sCYFqc203.png",
+			"addTime": "2019-09-28 11:56:06",
+			"type": "audio",
+			"album": "软件那些事儿",
+			"duration": 2016,
+			"url": "https://fdfs.xmcdn.com/group62/M09/B4/FA/wKgMcV2kKvHBsw8xAM5Zt-9lI34280.m4a",
+			"order": 214
+		},
+		{
+			"postsRepo": "Posts03",
+			"title": "215. 随机存取内存诞生的故事",
+			"description": "RT",
+			"icon": "wKgKjFsqBdXTDdNvAABO2sCYFqc203.png",
+			"addTime": "2019-09-28 11:56:06",
+			"type": "audio",
+			"album": "软件那些事儿",
+			"duration": 2016,
+			"url": "https://fdfs.xmcdn.com/group64/M00/40/65/wKgMc12ZMPeh1DiSATNOKk4BtRQ514.m4a",
+			"order": 214
+		},
 		{
 			"postsRepo": "Posts03",
 			"title": "214. 德州仪器的蓬勃发展以及肖克利的迅速衰落",
